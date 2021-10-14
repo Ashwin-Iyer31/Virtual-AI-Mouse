@@ -17,3 +17,5 @@ Working on:
 1. Shifting the purple rectangle up, since bottom access becomes difficult.<br>
 2. Removing numpy and math imports by adding onlt required self made functions. to reduce code complexity and for better optimization.<br>
 3. Further smoothening of movement and clicks.<br>
+
+DemoVideo: https://drive.google.com/file/d/1yVfNtSUMiDc8-IAJXpEdJxB5O0A_z7qF/view?usp=sharing
