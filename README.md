@@ -13,9 +13,10 @@ To run:<br>
 1. Simply Run main.py.<br>
 2. Fps display functionality can be achieved by uncommenting the triple Quote comments.<br>
 
-Working on:
-1. Shifting the purple rectangle up, since bottom access becomes difficult.<br>
+Optimizations:
+1. Shifting the purple rectangle up, since bottom access becomes difficult. - Done<br>
 2. Removing numpy and math imports by adding onlt required self made functions. to reduce code complexity and for better optimization.<br>
 3. Further smoothening of movement and clicks.<br>
+4. Optimizations for specific softwares for pointer to work with.eg: Paint, On-Screen Keyboard etc.
 
 DemoVideo: https://drive.google.com/file/d/1VYW8TyVWAWbcWZUBCu_ugN9KJ1aO76y4/view?usp=sharing
